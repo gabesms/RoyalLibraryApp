@@ -20,7 +20,6 @@ Combines all reducers into a single root reducer using combineReducers from Redu
 The application uses the following dependencies:
 
 react-router-dom: For routing within the application.
-
 material-ui/core: Provides UI components for building the search interface and displaying book data.
 redux: State management library for managing application state.
 react-redux: Provides bindings for using Redux with React.
